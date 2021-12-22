@@ -1,7 +1,7 @@
 # intone
 
-A new Flutter project.
-
+A new Flutter Messenger Project.
+(Under Development)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
