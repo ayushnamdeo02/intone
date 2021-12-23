@@ -1,7 +1,9 @@
 // ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors
-import 'pages/splash.dart';
+import 'package:intone/pages/login.dart';
+//import 'package:intone/pages/signup.dart';
 import 'package:flutter/material.dart';
-import 'pages/login.dart';
+import 'package:intone/pages/intoneScreen.dart';
+import 'pages/splash.dart';
 
 void main() => runApp(IntoneApp());
 
@@ -22,9 +24,8 @@ class IntoneApp extends StatelessWidget {
       routes: {
         '/': (context) => IntoneHome(),
         '/login': (context) => IntoneLogin(),
-        //'/signup':(context)=>ChatterSignUp(),
-        //'/chat':(context)=>ChatterScreen(),
-        // '/chats':(context)=>ChatterScreen()
+        //'/signup':(context)=>IntoneSignUp(),
+        '/chat': (context) => IntoneScreen(),
       },
     );
   }

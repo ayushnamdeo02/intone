@@ -152,7 +152,7 @@ class _IntoneLoginState extends State<IntoneLogin> {
                   Hero(
                     tag: 'footer',
                     child: Text(
-                      'Made with ♥ by ishandeveloper',
+                      'Made with ♥ by AyushNamdeo02',
                       style: TextStyle(fontFamily: 'Poppins'),
                     ),
                   )
