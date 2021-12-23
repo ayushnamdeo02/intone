@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411072804215",
+    "project_id": "intone-data",
+    "storage_bucket": "intone-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411072804215:android:3f53f83ae16a85c8b09d72",
+        "android_client_info": {
+          "package_name": "com.intone.intone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411072804215-nmm02vncdgmq0okb5dnap257ar7tplcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3GOERiHg0tr9t7tKFH9_D5c4EefYxtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411072804215-nmm02vncdgmq0okb5dnap257ar7tplcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
